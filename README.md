@@ -141,7 +141,7 @@ duolingo-clone/
 
 ## Architecture of our Project.
 
-![Here is an Architecture .](/.github/images/img_main.png "Lingo - Interactive platform for language learning.")
+![Here is an Architecture .]([/.github/images/img_main.png](https://github.com/Praful-Dev/TY_B_PW2/blob/main/Picture1.jpg) "Lingo - Interactive platform for language learning.")
 
 
 ## :camera: Screenshots
